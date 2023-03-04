@@ -1,0 +1,31 @@
+{
+    "theme_color": "#00b786",
+    "background_color": "#2c3e50",
+    "display": "standalone",
+    "scope": "/mailpit/index.html",
+    "start_url": "/mailpit/index.html",
+    "name": "MailPit",
+    "short_name": "MailPit",
+    "icons": [
+        {
+            "src": "/mailpit/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/mailpit/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/mailpit/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/mailpit/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
